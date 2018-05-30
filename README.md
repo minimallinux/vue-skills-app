@@ -1,6 +1,6 @@
 # vue-skills-app
 A Simple Vue JS App to add a list of skills which you may (or may not) have!
-uses some css transitions and basic vue directives.
+uses some css transitions and basic vue directives/validations and vue router.
 Use latest 3.0.0-beta.11 with Yarn etc.
 
 Clone and run yarn build to set up
